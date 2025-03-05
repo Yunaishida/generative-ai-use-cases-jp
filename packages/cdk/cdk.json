@@ -44,7 +44,7 @@
       "us.anthropic.claude-3-5-haiku-20241022-v1:0",
       "us.amazon.nova-pro-v1:0",
       "us.amazon.nova-lite-v1:0",
-      "us.amazon.nova-micro-v1:0"
+      "us.amazon.nova-micro-v1:0",
       "amazon.titan-text-premier-v1:0",
       "meta.llama3-8b-instruct-v1:0",
       "cohere.command-r-plus-v1:0",
